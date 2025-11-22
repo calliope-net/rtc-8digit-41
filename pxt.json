@@ -1,5 +1,6 @@
 {
     "name": "rtc-8digit-41",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
